@@ -1,0 +1,15 @@
+    html,body{
+	background-image: url('http://cdn.wallpapersafari.com/52/24/TMDEXC.jpeg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	}
+	.header {
+		color: #36A0FF;
+		font-size: 27px;
+		padding: 10px;
+	}
+	
+	.bigicon {
+		font-size: 35px;
+		color: #36A0FF;
+	}
